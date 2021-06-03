@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals, for true peace in the Church of Scotland humbly offered to the consideration of all judicatories, ministers and members thereof in a letter to a friend.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56044</idno><idno type="EEBO-CITATION">99833238</idno>
+  <idno type="VID">37713</idno>
+  <idno type="EEBO-PROQUEST">2240933519</idno>
+  
+            <idno type="STC">Wing P3751A</idno>
+            <idno type="STC">ESTC R221999</idno>
+            <idno type="PROQUEST">99833238</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833238e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2195:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals, for true peace in the Church of Scotland humbly offered to the consideration of all judicatories, ministers and members thereof in a letter to a friend.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? ;</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy creased, with loss of text, and with print show-through.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="topical_term">Reformation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37713:1"/>
+            <head>PROPOSALS, for true Peace in the Church of <hi>Scotland,</hi> humbly offered to the conside<g ref="char:EOLhyphen"/>ration of all Judicatories, Ministers and Members thereof in a Letter to a Friend.</head>
+            <p>ANY who duely consider the many Spiritual Plagues we have long been under, with the LORD's with-holding his Presence from Gos<g ref="char:EOLhyphen"/>pel Ordinances, and likewise the Temporal strokes which have been inflicted upon us, will be forced to grant that the LORD hath a Controversie a<g ref="char:EOLhyphen"/>gainst these Lands for our Sins; We may also look on't as a Fruit and effect of Divine Anger, that we who go under the designation of <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> have long had many unpleasant conten<g ref="char:EOLhyphen"/>tions and divisions among our selves; How dan<g ref="char:EOLhyphen"/>gerous these are, cannot easily be apprehended: sure, they deserve not the Name of Christians who are altogether unconcerned herein. To ad<g ref="char:EOLhyphen"/>vise proper Remedies for averting the LORD's Wrath, and cuting our Divisions. as it would re<g ref="char:EOLhyphen"/>quire the greatest considerations of an <hi>Assembly</hi> of Learned <hi>Divines;</hi> So I take the boldness to averr, it would at this time be more Worthy of and Suitable unto their Character and Office than any other Bussiness, I can think on, which may be Sub<g ref="char:EOLhyphen"/>jected to their Cognizance.</p>
+            <p>Having admired that so little in this kind is ami<g ref="char:EOLhyphen"/>ed at, and fearing the bad event of such a Ne<g ref="char:EOLhyphen"/>glect, I have prevailed with my self to send these Lines abroad to see if through the Lord's blessing, they might prove any mean to set on foot a work of the highest importance.</p>
+            <p>In order to a Cure the Causes of our Disease must be enquired <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which being <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>merable, I shall only mention this comprehensive General, <hi>Our Personal and Publick Backslidings from</hi> GOD <hi>his Cause and Way, and then our refu<g ref="char:EOLunhyphen"/>sing to Repent thereof and return truely to the</hi> LORD <hi>are undoubtedly the causes of Divine Dis<g ref="char:EOLhyphen"/>pleasure, and also of our many Differences, Divisions and Sub-divisions.</hi> It pleased our good and gra<g ref="char:EOLhyphen"/>cious GOD to reform these Lands from <hi>Popery</hi> and <hi>Prelacy</hi> in an eminent remarkable manner, and to establish in this Church Sound Doctrine, Pure Worship, right Discipline and Goverment, for the perpetual security, and constant Preser<g ref="char:EOLhyphen"/>vation whereof, He graciously and Powerfully moved our worthy Ancestors to enter into a Na<g ref="char:EOLhyphen"/>tional Covenant and Oath, which was often re<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>'d and repeated, and also stirred up Our <hi>Ge<g ref="char:EOLhyphen"/>neral Assemblies</hi> for the space of Twelve Years▪ <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. From <hi>Anno</hi> 1638 to 1649 <hi>inclusive,</hi> to make excellent Acts and constitutions approving and confirming that reformed Religion, which were corroborat and ratified by good Laws and Acts of <hi>Parliament.</hi> These Vows Oaths, Acts and Laws (being the firmest Tyes immaginable amongest Men) were made with the greatest Cheerfulness and Resolution, as may he seen by viewing the Terms and Expressions thereof. How Strictly in like manner <hi>England</hi> and <hi>Ireland</hi> bound them<g ref="char:EOLhyphen"/>selves with <hi>Scotland</hi> in the famous <hi>Solemn League and Covenant,</hi> to the same Effect, is abundantly known in the World. This Covenanted work of Reformation made the Church of Christ in <hi>Britain</hi> and <hi>Ireland,</hi> Beautiful and Honourable in the Eyes of Sister Churches: The LORD being pleased to carry it on, in remarkable advances by his own outstreached Arm, and to shine on his Churches with the kind Beams of his Grace and Favour during the foresaid Reforming-Time. But ah! How soon did <hi>our Gold become Dim? Lam.</hi> 4 1. When wearied of the LORD's Way and Work▪ and <hi>facilis desconsus Averni;</hi> Our declining when once begun▪ had a swift motion till at length the Reformation was almost wholly overturned by subsequent Laws eversive thereof, violently put in execution to the Pitch, of shedding the Saints Blood. The tragical story of that Time should be kept in Memory, in regard the Lord seems to be pointing thereat by the Troubles we have been lately under; and unless the Iniquities then done to the <hi>Mediator's</hi> Interest and People be du<g ref="char:EOLhyphen"/>ly laid to Heart and repented of (which, hither<g ref="char:EOLhyphen"/>to hath not, I fear, been done by many) there's reason to fear the LORD will testify his Resen<g ref="char:EOLhyphen"/>ment of the same to and higher degree. We have not wanted Noble Opportunities at and since the <hi>Revolution</hi> for retriving what was lost of the Re<g ref="char:EOLhyphen"/>formation, but so remiss were we, that an overly half Reformation satisfied us, yea we have not stood firm to what was regained at the Revolu<g ref="char:EOLhyphen"/>tion; many new Steps of Backsliding have both the Church and Civil Government made of late Years, Religion is at a low eb; and iniquity like a deluge overwhelms all places: How far <hi>Ma<g ref="char:EOLhyphen"/>gistrates,</hi> and how far <hi>Ecclasiastick</hi> Officers are g<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lty of and chargeable with the same. I shall not now take on me to show; I with they may respectively enquire thereinto themselves: their Ommission of this Duty hath (I am apt to think) occasioned the discoveries and representations of grivances made by these who withdraw from the Established Church, the Truth and Weight of which Grievances should be examined and con<g ref="char:EOLhyphen"/>sidered in order to a redressing of what is really a<g ref="char:EOLhyphen"/>miss. As for these <hi>Dissenters,</hi> It's plain they need not so accuse others as to justify themselves, How miserably are they Divided among them<g ref="char:EOLhyphen"/>selves? And by the wide distances they keep up, they bewray too great goodness to throw up that sweet thing the Communion of Saints, yea, I am not afraid to say that each of these Parties are deeply guilty of manifold Defections themselves, especially with respect to inward Decays, This I conceive, the Strictest of them will not have the Confidence to deny</p>
+            <p>Seing therefore, We are all guilty and have provoked the Lord to anger, seing no Party, no Person is free or innocent, every one having ad<g ref="char:EOLhyphen"/>ded Oyl to this Flame: Let us not continue ex<g ref="char:EOLhyphen"/>cusing and justifying our selves, and throwing all the blame on these who differ from us: this way hath been too much Trod already; nay rather let all sorts and degrees all Parties, and Persons search out their own particular Sins, be affected with, Repent off and turn from them in the way of Faith and new Obedience:</p>
+            <p>I therefore adventure, yet in all Humility, to offer a few Proposals, which if safe and agreeable to GOD's Word, as I hope they shall be found: Do challenge serious Attention and a due Com<g ref="char:EOLhyphen"/>pliance
+<pb facs="tcp:37713:2"/> by virtue of their material Equity, tho' the Author be very inconsiderable, the expediency of them, I presume none who are truely Godly will</p>
+            <list>
+               <item>
+                  <hi>Proposal</hi> I. Let Strife rancor, Bitterness, Alie<g ref="char:EOLhyphen"/>nation, Envy, and censoriousness be guarded a<g ref="char:EOLhyphen"/>gainst on all Hands: in liew whereof; let us all seek to be influenced and acted by the quickning Spirit of CHRIST: See <hi>Gal.</hi> 5.22. <hi>Phil.</hi> 1.2, 3. <hi>&amp;c.</hi> the 12, 13 and 15 Chapters of the Epistle to the <hi>Romans James Chap.</hi> 4 throughout 1. <hi>Cor.</hi> 3.1, 2. <hi>&amp;c. Eph.</hi> 4.31, 32.</item>
+               <item>
+                  <hi>Pro.</hi> II. Let us all acknowledge the goodness of God in keeping the several Parties of <hi>Presby<g ref="char:EOLunhyphen"/>terians</hi> sound and Arthedox in the main: They all own the holy Scriptures as the only infallible Rule of Faith and Manners, and profess an Ad<g ref="char:EOLhyphen"/>herence to our Confession of Faith, Larger and shorter Catechisms▪ Sum of saving Knowledge, Directory for Worship, Propositions of Church Government, and our Covenants, the National Co<g ref="char:EOLhyphen"/>venant, and the solemn League and Covenant, with the good Acts of Assembly from 1638 to 1649, and other such Attainments in Reforma<g ref="char:EOLhyphen"/>tion. I hope none or at least not many of the Presbyterians differ in a professed owning of these; If any of them do condemn or dispise any of the forsaid Attainments, they should be noted and animadverted upon according to the degree of their Offence.</item>
+               <item>
+                  <hi>Pro.</hi> III. Let the forsaid Principles, wherein we all profess an agreement be carefully view'd, and look'd over, that each Party, and every Per<g ref="char:EOLhyphen"/>son, Ministers, Magistrates, and private Christi<g ref="char:EOLhyphen"/>ans, and these both High and low may see and be convinced of their Counteracting and contra<g ref="char:EOLhyphen"/>veening these excellent Principles. Let us all take an impartial tryal of our Heart and ways by that ballance and Standard, that we may distinctly see how disconform and unlike we have been to these our Principles, both by <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>mission of Inc<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bent Duties and Commission of Sins: Thus all Persons in Church State, Army or Country will be made to see they have departed from the Lord and His way, times and ways past reckoning: This Proposal, I am sure cannot in Reason be re<g ref="char:EOLhyphen"/>fus'd, being only design'd to bring our Practice under Trayal by the Rule of our professed Prin<g ref="char:EOLhyphen"/>ciples.</item>
+               <item>
+                  <hi>Pro.</hi> IV. Taking it for certain that on this due examination, all Parties and Persons will find in<g ref="char:EOLhyphen"/>numerahle Failures and sinful steps. The next Proposal is, That Days of Fasting and Humili<g ref="char:EOLhyphen"/>ation, and Prayer be keept in Secret, Private and Publick for these Causes, imploreing forgiveness through the Blood of Christ, and the Holy Spirits sanctifying influences, to cause us walk in New<g ref="char:EOLhyphen"/>ness of Life; We should also pray, that the Lord may convince us more and more of the Causes of his Displeasure, <hi>Job.</hi> 10.2. And should wellcome what Discoveries He is pleased to make.</item>
+               <item>
+                  <hi>Pro.</hi> V. <p>Let us all study a thorow Reformation, Personal and National according to God's word, and the above m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntioned uncontraverted Princi<g ref="char:EOLhyphen"/>ples: Let every Person in whatever Station who professeth any regard to GOD and His way; La<g ref="char:EOLhyphen"/>bour in the first place to know the Truth, reality and Power of Godliness in the Inner-man, for how great soever our Profession and seeming Zeal be; Whatever Gifts, Endewments and blamless Lives before Men we may have, yet unless we be new Creatures, <hi>not waiking after the Flesh but after the Spirit.</hi> 2. <hi>Cor.</hi> 5.11. <hi>John,</hi> 3.3. <hi>Rom:</hi> 8.1. <hi>Joh;</hi> 15.4.5.6. We cannot bear any Fruit plea<g ref="char:EOLhyphen"/>sing to GOD, I wish we may carefully and chiefly in the first place mind to lay this foundation aright otherways there will be no good Superstructure.</p>
+                  <p>In the next place, let us all according to our re<g ref="char:EOLhyphen"/>spective capacitys, stations &amp; opportunities endea<g ref="char:EOLhyphen"/>vour after Family Reformation, Congregational &amp; National, as we are bound in our Covenant to do.</p>
+               </item>
+               <item>
+                  <hi>Pro.</hi> VI. Let Amicable Christian Conferences be keep among differing Parties, wherein 'tis ad<g ref="char:EOLhyphen"/>viseable that one Partie claim not a Superiority a<g ref="char:EOLhyphen"/>bove another till difference be accomodat, Let Of<g ref="char:EOLhyphen"/>fences given or taken be discoursed on in order to find out what really is offensive to a Holy GOD, and not to reproach, shame or insult over one ano<g ref="char:EOLhyphen"/>ther. Conferences of this Nature, if sincerely de<g ref="char:EOLhyphen"/>signed, and rightly mannaged might through the Lord's blessing prove very useful, if Men would guard against their own Spirits &amp; speak and hear in Love and Meekness, rejoiceing in any degree of unanimity and when d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferences cannot be re<g ref="char:EOLhyphen"/>moved altogether, Parties should beware lest Mat<g ref="char:EOLhyphen"/>ters grow worse, because at such a juncture Satan &amp; our Corruptions labour to represent differences in a magnifying Glass, and to make us look on any degree of Concord with disregard and contempt. Albeit any of the differing Parties may move for such Conferances, yet I conceive it most proper for these who are in most Authority to propose and set them on Foot.</item>
+               <item>
+                  <hi>Pro.</hi> VII. There would be a yeilding to one an<g ref="char:EOLhyphen"/>other wherein soever we may do it without Sin, &amp; we should show a readiness to join in these Duties which are uncontraverted, and wherein we agree, waiting Patiently upon these who differ from us, till it please the Lord to vouchsafe a further measure of Light, <hi>Phil.</hi> 3.16. Hence time should be allow<g ref="char:EOLhyphen"/>ed to these who scruple &amp; remain unclear to join in closs communion with this Church, that they may endeavour first to have satisfaction to their Con<g ref="char:EOLhyphen"/>sciences; otherwise tho they should be forced by Minaces and Censures, their edification will inevit<g ref="char:EOLhyphen"/>ably be marred; I am fully perswaded that peace<g ref="char:EOLhyphen"/>able loving and tender Methods will be found better, and far more safe, than severe and harsh Treatments, whereby animosities and Heart alie<g ref="char:EOLhyphen"/>nation increase for the most part.</item>
+               <item>
+                  <hi>Pro.</hi> VIII. The last Proposal I make is that the Lord's Servants and People every where be much excercised in Prayer to GOD for the down power<g ref="char:EOLhyphen"/>ing of his Spirit from on High, without which a re<g ref="char:EOLhyphen"/>covery out of our sad condition is not to be expect<g ref="char:EOLunhyphen"/>ed. Do we not see how all endeavours have pro<g ref="char:EOLhyphen"/>ven Abortive time after time? Let all then who fear the Lord wrestle for his return, as the Church, <hi>Psal.</hi> 76.8.9 and 80 and 74 and 85.</item>
+            </list>
+            <p>I am hopefull these Proposals if the Lord help to a sincere Complyance with them, would tend to the special advantage of his wasted and weak<g ref="char:EOLhyphen"/>ned Church. I therefore in the most earnest manner obtest all both Ministers and private Christians to take the same into their serious Con<g ref="char:EOLhyphen"/>sideration, laying aside prejudices, Pride, self seeking and Sinisterous designs, studying above all things how the Lord's Contraversie against us may be removed; Religion, Reformation and Unity may be revived. But if any turn away their Ears from such things as make for Peace; they thereby show they love not the Peace Pros<g ref="char:EOLhyphen"/>perity and Good of our <hi>Jerusalem.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
